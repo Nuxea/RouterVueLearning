@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Chevy",
+    "price": 15000,
+    "year": 2015,
+    "img": "https://pngimg.com/uploads/chevrolet/%D1%81hevrolet_PNG40.png",
+    "contact": {
+      "dealer": "Laith",
+      "number": "111-111-1111"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bentley",
+    "price": 215000,
+    "year": 2021,
+    "img": "https://di-uploads-pod14.dealerinspire.com/morriesluxuryportal/uploads/2021/01/2021-bentley-continental-gt-exterior.png",
+    "contact": {
+      "dealer": "Sam",
+      "number": "222-222-2222"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ford",
+    "price": 5000,
+    "year": 2005,
+    "img": "https://www.motorparks.co.uk/feeds/do-cap-image.aspx?capid=29814",
+    "contact": {
+      "dealer": "Ed",
+      "number": "333-333-3333"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Range Rover",
+    "price": 85000,
+    "year": 2019,
+    "img": "https://www.nicepng.com/png/detail/278-2786300_land-rover-range-rover-evoque-2019.png",
+    "contact": {
+      "dealer": "Turner",
+      "number": "444-444-4444"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nissan",
+    "price": 25000,
+    "year": 2010,
+    "img": "https://e7.pngegg.com/pngimages/511/869/png-clipart-2010-nissan-rogue-2008-nissan-rogue-car-2014-nissan-rogue-nissan-compact-car-car.png",
+    "contact": {
+      "dealer": "Jess",
+      "number": "555-555-5555"
+    }
+  }
+]
